@@ -1,6 +1,14 @@
 Problem: Github sucks
 Problem2 Simswaps Suck
+
 Carrier Employees susceptible to corruption and bribery to sim swap a client.
 as normal people are to phishing attacks.
 However, Sim- swapping is indeed a essential service for those who truly need it, ie in the case of cell number recovery due to broken lost or stolon phone/ sim card.
-Solution: What is we simply stopped 
+
+Theory: What if we simply stopped relying on SIM/ SMS for 2FA.
+Proposition/ Solution: Instead implementation of a NOSTR Nsec = a Free and easy way for service and user to confirm identity ownership
+
+this is essentially a way for individuals to now self custory their own "identites" apart from relying on centralized hubs like Specific Carrier (ie TMObile/ Verison), or platform (FB/ META)
+email is a little more decentralized due to the sheer quanity of freely available service providers.
+But NOSTR has relays, so as long as you can provide them a NPub on file, they can easily and seamlessly send users a "is this really you"
+to which the users sign with Nsec, effectively performing an ID verification.
