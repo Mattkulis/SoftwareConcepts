@@ -1,1 +1,11 @@
 
+Concept:
+Users open a channel with a custodial LN service provider effectively locking up a sum of sats in the process.
+users must first initialize" accounts by sending funds and can withdraw at any time but unverifies account unless funds readded.
+
+Cultivation of pseudoanonymous profiles & the ability to link LN Accs with bank accounts/ other forms of identity & help users build credit history under pseudoanonymous identities.
+
+Thus LN channels can Act as collateral for payments where they sign a tx for Min of ___sats (downpayment) for good or service and be upcharged if necessary (ex :cleaning fees or missing minibar stuff in hotels)
+
+This would require a 3-party multi-sig where the 3rd party acts as a validator in the settlement process.
+If the user is able to put up the cost of the entire good/service then theoretically No ID is necessary to ensure that a loss is not suffered. (risk management, check)
