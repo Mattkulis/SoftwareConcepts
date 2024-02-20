@@ -9,6 +9,10 @@ toggle to increase fees to incentivize miners to pickup fast or not.
 taproot integration provides ability for users to submit their lightning
 balance sats for a multiple  on chain TxO for cheaper fees
 
+integrated protocol which NOSTR Nsec's can likewise be used to retrieve sats locked in L2
+way for other sidechains to integrate with this protocol.
+THis allows for sats sent to a specific account to be held there in limbo indefinately.
+
 
 
 
